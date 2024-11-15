@@ -1,22 +1,22 @@
-# Linux Syllabus
+# $${\color {red} \textbf {Linux Syllabus}}$$
 
-# Linux and DevOps Syllabus
 
-## 1. Introduction to DevOps and Linux
+
+## $${\color {blue} \textbf {1. Introduction to DevOps and Linux}}$$
 - **What is DevOps?**: Collaboration between development and operations for faster, more reliable software delivery.
 - **Why Linux?**: Why Linux is the go-to OS for servers and DevOps.
 - **Roles in DevOps**: Understanding the roles of developers, testers, and system administrators in a DevOps environment.
 
 ---
 
-## 2. Linux Fundamentals
+## $${\color {blue} \textbf {2. Linux Fundamentals}}$$
 - **What is Linux?**: An open-source operating system commonly used in cloud, server, and embedded environments.
 - **Linux vs Windows/Unix**: Key differences—open-source, security, and flexibility of Linux vs. proprietary systems like Windows and Unix.
 - **Linux Architecture**: Components of Linux—kernel, user space, libraries, and hardware interaction.
 
 ---
 
-## 3. Working with the Linux Command Line
+## $${\color {blue} \textbf {3. Working with the Linux Command Line}}$$
 - **Basic Commands**:  
   - `ls` – List files.  
   - `cd` – Change directories.  
@@ -28,7 +28,7 @@
 
 ---
 
-## 4. Linux File System and Permissions
+## $${\color {blue} \textbf {4. Linux File System and Permissions}}$$
 - **File System Structure**:  
   - **Root Directory `/`**: Base of the file system.
   - **Common Directories**: `/bin`, `/etc`, `/home`, `/var` and their purpose.
@@ -39,7 +39,7 @@
 
 ---
 
-## 5. Text Editing with VIM
+## $${\color {blue} \textbf {5. Text Editing with VIM}}$$
 - **Vim Basics**:  
   - **Modes**: Command, Insert, and Visual modes.
   - **Navigation**: Moving around text in command mode.
@@ -50,7 +50,7 @@
 
 ---
 
-## 6. Managing Users and Groups
+## $${\color {blue} \textbf {6. Managing Users and Groups}}$$
 - **Creating Users**:  
   - **`useradd`**: Create a new user.
   - **`passwd`**: Set user passwords.
@@ -62,7 +62,7 @@
 
 ---
 
-## 7. Automating Tasks in Linux
+## $${\color {blue} \textbf {7. Automating Tasks in Linux}}$$
 - **Archiving and Compression**:  
   - **`tar`**: Create and extract archives.
   - **Compression**: Use `gzip`, `bzip2` to reduce file size.
@@ -74,7 +74,7 @@
 
 ---
 
-## 8. Managing Processes and System Resources
+## $${\color {blue} \textbf {8. Managing Processes and System Resources}}$$
 - **Process Management**:  
   - **`ps`**: List running processes.
   - **`top`**: Monitor system resource usage in real-time.
@@ -86,7 +86,7 @@
 
 ---
 
-## 9. Networking in Linux
+## $${\color {blue} \textbf {9. Networking in Linux}}$$
 - **Basic Networking**:  
   - **TCP/IP**: Core protocols for network communication.
   - **Network Interfaces**: Use `ifconfig` or `ip` to configure network settings.
@@ -98,4 +98,3 @@
 
 ---
 
-This syllabus covers the key concepts and commands in Linux, focusing on the practical knowledge required for DevOps and system administration tasks. Each section provides foundational skills needed for managing Linux systems in a DevOps environment.
